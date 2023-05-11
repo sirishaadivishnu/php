@@ -4,7 +4,11 @@ This repository contains some of PHP programs that I wrote during my traineeship
 
 ## Getting Started
 
-To run these programs, you'll need to have PHP installed on your system or set up Visual Studio to debug PHP programs.
+To run these programs, you'll need to have PHP installed on your system or set up Visual Studio to debug PHP programs. You may also refer the PHP manual to get started:
+
+```
+https://www.php.net/manual/en/
+```
 
 Once you have setup PHP, you can clone this repository using the following command:
 
