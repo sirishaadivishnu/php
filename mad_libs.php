@@ -1,6 +1,6 @@
+<?php
 // Write a program of mad libs story 
 // Author: Sirisha Adivishnu 
-<?php
 function generateStory($singular_noun, $verb, $color, $distance_unit)
 {
   $story = "\nThe ${singular_noun}s are lovely, dark, and ${color}.\n

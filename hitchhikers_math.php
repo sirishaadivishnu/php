@@ -1,6 +1,6 @@
+<?php
 // Write a program to calculate with math functions
 // Author: Sirisha Adivishnu 
-<?php
 $initial = '555';
 $a = octdec($initial);
 echo "\n$a";

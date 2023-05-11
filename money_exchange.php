@@ -1,6 +1,6 @@
-// Write a program to calculate money exchange 
-// Author: Sirisha Adivishnu 
-<?php
+ <?php
+ // Write a program to calculate money exchange 
+ // Author: Sirisha Adivishnu
 $riel = 2103942;
 $kyat = 19092;
 $krones = 109;

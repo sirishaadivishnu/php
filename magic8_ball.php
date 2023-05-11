@@ -1,6 +1,6 @@
-// Write a program of magic 8 ball 
-// Author: Sirisha Adivishnu 
-<?php
+ <?php
+ // Write a program of magic 8 ball 
+ // Author: Sirisha Adivishnu
 function magic8Ball()
 {
   echo "Tell me... What is your question?\n";  
