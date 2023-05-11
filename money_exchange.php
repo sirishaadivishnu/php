@@ -31,10 +31,3 @@ $rounded_change %= 100;
 $rounded_change /= 100;
  
 $final_amount = $dollars_only + $rounded_change;
-
-
-
-
-  
-
-
