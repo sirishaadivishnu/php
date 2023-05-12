@@ -34,7 +34,7 @@ Happy coding!
 | 2  | `money_exchange.php`  | insert description here  |
 | 3  | `hitchhikers_math.php`  | insert description here  |
 | 4  | `magic8_ball.php`  | insert description here  |
-| 5  | ``  | insert description here  |
+| 5  | `number_guessing.php`  | insert description here  |
 | 6  | ``  | insert description here  |
 | 7  | ``  | insert description here  |
 | 8  | ``  | insert description here  |
