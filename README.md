@@ -18,7 +18,7 @@ git clone https://github.com/sirishaadivishnu/php.git
 
 ## Directory Structure
 
-The repository doesn't contain any typical directory structure however, at the end of this Readme.md I have created a table to describe each program in the repository.
+The repository does contain a directory to host a program which requires support functions to be called via global variables. At the end of this Readme.md I have created a table to describe each program in the repository.
 
 ## Contributing
 
@@ -35,10 +35,10 @@ Happy coding!
 | 3  | `hitchhikers_math.php`  | insert description here  |
 | 4  | `magic8_ball.php`  | insert description here  |
 | 5  | `number_guessing.php`  | insert description here  |
-| 6  | ``  | insert description here  |
-| 7  | ``  | insert description here  |
-| 8  | ``  | insert description here  |
-| 9  | ``  | insert description here  |
+| 6  | `restaurant_menu.php`  | insert description here  |
+| 7  | `text_adventuregame`  | This is a directory. The programs along with the support files required to run this game are part of this directory.  |
+| 8  | `fizzbuzz_interview.php`  | insert description here  |
+| 9  | `budget_app.php`  | insert description here  |
 | 10  | ``  | insert description here  |
 | 11  | ``  | insert description here  |
 | 12  | ``  | insert description here  |
