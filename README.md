@@ -39,7 +39,7 @@ Happy coding!
 | 7  | `text_adventuregame`  | This is a directory. The programs along with the support files required to run this game are part of this directory.  |
 | 8  | `fizzbuzz_interview.php`  | insert description here  |
 | 9  | `budget_app.php`  | insert description here  |
-| 10  | ``  | insert description here  |
-| 11  | ``  | insert description here  |
+| 10  | `htmlphp_calculator`  | This is a directory. The programs along with the support files required to run this game are part of this directory.  |
+| 11  | `bobby_tables.php`  | insert description here  |
 | 12  | ``  | insert description here  |
  
